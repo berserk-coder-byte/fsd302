@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+body{background-image: url(https://www.veeforu.com/wp-content/uploads/2022/09/Blue-fog-texture-png-background-full-hd-1080p-download.-scaled.jpg);}
+body{ background-repeat: no-repeat;}
+/* body{background-position:;} */
+/* table{font-weight: 400;} */
+u{background-color:thistle;}
+body{
+    width: 100%;
+}
+h2{text-decoration: line-through;}
+.para1{
+   
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgba(177, 203, 220, 0.963);
+
+}
+.para2{
+    font-family: "poppins";
+    font-weight: 200;
+    color: aliceblue;
+    font-style: italic;
+
+}
+.para3{
+    font-family: "Baloo 2";
+    font-style: bold;
+    font-weight: 200;
+    color: blanchedalmond;
+}
+.para4{
+    font-family: "hurricane";
+    font-weight: 300;
+    color: beige;
+    font-size: 23px;
+}
